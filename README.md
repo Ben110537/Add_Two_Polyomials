@@ -1,4 +1,4 @@
-# Add Two Polynomials
+# 1.Add Two Polynomials
 
 ## Description
 Write a function to add two polynomials. Do not destroy the input. Use a linked list implementation with a dummy head node. Note: The zero polynomial is represented by an empty list with only the dummy head node.
@@ -12,7 +12,7 @@ Write a function to add two polynomials. Do not destroy the input. Use a linked 
 ### Outout
 ```8 + 4x^1 + 8x^4```
 
-# Reverse Linked List
+# 2.Reverse Linked List
 
 ## Description
 Write a nonrecursive procedure to reverse a singly linked list in O(N) time using constant extra space.
